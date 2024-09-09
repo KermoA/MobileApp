@@ -131,7 +131,7 @@
                     Style="{StaticResource IntroPageTextStyle}"
                     Text="Want to know and explain all things about the planets in the solar system?"/>
 
-                <Label 
+                <Button 
                     HorizontalOptions="Center"
                     Margin="0,12,0,6"
                     Style="{StaticResource ButtonStyle}"
