@@ -4,7 +4,7 @@ using CommunityToolkit.Mvvm.Input;
 namespace SciCalc.ViewModels
 {
 	[INotifyPropertyChanged]
-	internal partial class CalculatorPageViewModel
+	internal partial class CalculatorPageViewModel //:ObservableObject
 	{
 		[ObservableProperty]
 		private string inputText = string.Empty;
