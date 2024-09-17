@@ -20,8 +20,8 @@ namespace MauiPlanets.Services
 				Images = new()
 				{
 					"https://cdn.theatlantic.com/thumbor/D15rQggf6357X1-u6VpTD2N1yQE=/0x27:1041x613/976x549/media/img/mt/2017/04/MercuryImage/original.jpg",
-					"https://solarsystem.nasa.gov/system/feature_items/images/73_carousel_mercury_2.jpg",
-					"https://solarsystem.nasa.gov/system/feature_items/images/75_mercury_carousel_1.jpg"
+					"https://starlust.org/wp-content/uploads/2023/07/planet-mercury.webp",
+					"https://griffithobservatory.org/wp-content/uploads/2021/03/Mercury_fin_flood_LD_V3-1600x844.jpg"
 				}
 			},
 			new()
@@ -36,10 +36,10 @@ namespace MauiPlanets.Services
 				AccentColorEnd = Color.FromArgb("#d17f21"),
 				Images = new()
 				{
-					"https://solarsystem.nasa.gov/system/feature_items/images/143_Venus-800x600.jpg",
-					"https://solarsystem.nasa.gov/system/feature_items/images/147_Hubble_Venus_Clouds-800x600.jpg",
-					"https://solarsystem.nasa.gov/system/feature_items/images/146_venus_carousel_3.jpg",
-					"https://solarsystem.nasa.gov/system/feature_items/images/144_PIA00485_Venus_Caldera-800.jpg"
+					"https://cdn.mos.cms.futurecdn.net/RifjtkFLBEFgzkZqWEh69P-1200-80.jpg",
+					"https://starwalk.space/gallery/images/amazing-planet-venus/1920x1080.jpg",
+					"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRIK8HsPuD9mo2NePF9ZOpGjGFeHeB5g41wUYG51uCFvewSBAv4Fl1ZBGgYjBhNMjsJaA&usqp=CAU"
+
 				}
 			},
 			new()
@@ -55,8 +55,8 @@ namespace MauiPlanets.Services
 				AccentColorEnd = Color.FromArgb("#2e97c7"),
 				Images = new()
 				{
-					"https://solarsystem.nasa.gov/system/feature_items/images/68_epicearthmoonstill_800.png",
-					"https://solarsystem.nasa.gov/system/feature_items/images/69_earth_carousel_3.jpg",
+					"https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/63e0ae1d227cb3001dcfcedd.jpg",
+					"https://www.farmersalmanac.com/wp-content/uploads/2020/11/Exceptional-earth.jpg",
 					"https://images.newscientist.com/wp-content/uploads/2019/09/09162708/iss048-e-2035_lrg.jpg?width=778"
 				}
 			},
@@ -74,9 +74,9 @@ namespace MauiPlanets.Services
 				AccentColorEnd = Color.FromArgb("#eb3333"),
 				Images = new()
 				{
-					"https://researchfdi.com/wp-content/uploads/2021/10/8944_1-PIA24546-1280.jpeg",
-					"https://www.worldatlas.com/r/w1300-q80/upload/bb/c3/32/shutterstock-1041249343.jpg",
-					"https://www.openaccessgovernment.org/wp-content/uploads/2021/04/dreamstime_xxl_121672573-scaled.jpg"
+					"https://www.worldatlas.com/upload/bb/c3/32/shutterstock-1041249343.jpg",
+					"https://www.frostscience.org/wp-content/uploads/2023/01/Mars-blog-header-1024x576.png",
+					"https://miro.medium.com/v2/resize:fit:1200/1*2n6yiV0A8p8Lyk55gId23Q.jpeg"
 				}
 			},
 			new()
@@ -91,9 +91,9 @@ namespace MauiPlanets.Services
 				AccentColorEnd = Color.FromArgb("#cd8026"),
 				Images = new()
 				{
-					"https://solarsystem.nasa.gov/system/feature_items/images/11_Full_Jupiter-800.jpg",
-					"https://solarsystem.nasa.gov/system/feature_items/images/10_Jupiter_Io_Juno-800.jpg",
-					"https://solarsystem.nasa.gov/system/feature_items/images/13_PIA24237_Jupiter_Cyclones-800.jpg"
+					"https://i0.wp.com/geolearn.in/wp-content/uploads/2020/12/image-187.png?fit=614%2C384&ssl=1",
+					"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfNDiO-vgPbwZ_hn1-urOWQw-4FYyXVcH1mA&s",
+					"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5Mc_u3Kd8JZkjGM4D5CVkfPxisrORr-bWhg&s"
 				}
 			},
 			new()
@@ -109,10 +109,9 @@ namespace MauiPlanets.Services
 				AccentColorEnd = Color.FromArgb("#c6502f"),
 				Images = new()
 				{
-					"https://solarsystem.nasa.gov/system/feature_items/images/151_saturn_carousel_1.jpg",
-					"https://solarsystem.nasa.gov/system/feature_items/images/152_saturn_carousel_2.jpg",
-					"https://solarsystem.nasa.gov/system/feature_items/images/155_saturn_carousel_5.jpg",
-					"https://solarsystem.nasa.gov/system/feature_items/images/153_saturn_carousel_3.jpg"
+					"https://cf-img-a-in.tosshub.com/sites/visualstory/wp/2024/06/Saturn1.jpeg?size=*:900",
+					"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl5NX24CQTZ0OB9T9BYoA2xlI2fc2bTUDAHA&s",
+					"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1elU2tkBub1odubHywTxL1StYHoGRsv_Dww&s"
 				}
 			},
 			new()
@@ -128,9 +127,9 @@ namespace MauiPlanets.Services
 				AccentColorEnd = Color.FromArgb("#996237"),
 				Images = new()
 				{
-					"https://solarsystem.nasa.gov/system/feature_items/images/88_carousel_uranus.jpg",
-					"https://solarsystem.nasa.gov/system/feature_items/images/89_uranus_carousel_1.jpg",
-					"https://solarsystem.nasa.gov/system/feature_items/images/88_carousel_uranus.jpg"
+					"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO6KXc87281zVEO7z9cUId7-nqBOglXNdgyA&s",
+					"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG8CQzihe85ZwOPAGBE-JooA_hDUGirVmeHw&s",
+					"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdhFjYwfwG7-4c3mT-TB-y8JutZC_i6_cv0Q&s"
 				}
 			},
 			new()
@@ -146,9 +145,96 @@ namespace MauiPlanets.Services
 				AccentColorEnd = Color.FromArgb("#26abe0"),
 				Images = new()
 				{
-					"https://solarsystem.nasa.gov/system/feature_items/images/82_carousel_neptune_1.jpg",
-					"https://solarsystem.nasa.gov/system/feature_items/images/86_carousel_neptune_5.jpg",
-					"https://solarsystem.nasa.gov/system/feature_items/images/84_neptune_carousel_2.jpg"
+					"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOE0lFUuYQKRPDF5Jnpw40XpyuOUpKfLLXBA&s",
+					"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKYtK1rw-bMdomPmONkGk3cREGm79I_nSPJg&s",
+					"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1hyWzldCX3g_BWDTb-chlv-2elXM90qbZcw&s"
+				}
+			},
+			new()
+			{
+				Name = "Pluto",
+				Subtitle = "Pluto enjoyed decades of special status as one of the solar system's planets.",
+				HeroImage = "pluto.png",
+				Description = "Pluto (minor-planet designation: 134340 Pluto) is a dwarf planet in the Kuiper belt, " +
+				"a ring of bodies beyond the orbit of Neptune. It is the ninth-largest and tenth-most-massive known " +
+				"object to directly orbit the Sun. It is the largest known trans-Neptunian object by volume, by a small " +
+				"margin, but is less massive than Eris.",
+				AccentColorStart = Color.FromArgb("#ae7e60"),
+				AccentColorEnd = Color.FromArgb("#bdab9f"),
+				Images = new()
+				{
+					"https://oap.unige.ch/journals/public/journals/8/submission_847_810_coverImage_en_US.jpg",
+					"https://i.natgeofe.com/n/d37ef874-0dc6-4cd4-b244-74d6b3f7232c/Pluto4.jpg",
+					"https://cdn.mos.cms.futurecdn.net/DoZSMXF87kCuzbymsuEFHo.jpg"
+				}
+			},
+			new()
+			{
+				Name = "Ceres",
+				Subtitle = "Ceres is named for the Roman goddess of corn and harvests.",
+				HeroImage = "ceres.png",
+				Description = "Ceres (minor-planet designation: 1 Ceres) is a dwarf planet in the middle main asteroid " +
+				"belt between the orbits of Mars and Jupiter. It was the first known asteroid, discovered on 1 January " +
+				"1801 by Giuseppe Piazzi at Palermo Astronomical Observatory in Sicily, and announced as a new planet. " +
+				"Ceres was later classified as an asteroid and then a dwarf planet, the only one not beyond Neptune's orbit.",
+				AccentColorStart = Color.FromArgb("#686462"),
+				AccentColorEnd = Color.FromArgb("#b8b5b3"),
+				Images = new()
+				{
+					"https://cdn.mos.cms.futurecdn.net/qnft8kRfeGWWLgaygo4fb9.jpg",
+					"https://i0.wp.com/eos.org/wp-content/uploads/2016/09/ceres-northern-end.jpg?fit=820%2C615&ssl=1",
+					"https://d2cbg94ubxgsnp.cloudfront.net/Pictures/480xany/1/9/8/140198_Ceres_c_NASA-JPL---Caltech-UCLA-MPS-DLR-IDA.jpg"
+				}
+			},
+			new()
+			{
+				Name = "Haumea",
+				Subtitle = "Haumea is named after the Hawaiian goddess of fertility.",
+				HeroImage = "haumea.png",
+				Description = "Dwarf planet Haumea was originally designated 2003 EL61 (and nicknamed Santa by one discovery team). " +
+				"Haumea is located in the Kuiper Belt, a doughnut-shaped region of icy bodies beyond the orbit of Neptune.",
+				AccentColorStart = Color.FromArgb("#757270"),
+				AccentColorEnd = Color.FromArgb("#8b8680"),
+				Images = new()
+				{
+					"https://www.centraldatacore.com/wp-content/uploads/PD3-Haumea-P-Key-1200x900.jpg",
+					"https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F9fswe344cff51.jpg",
+					"https://www.universetoday.com/wp-content/uploads/2022/10/7871.jpg"
+				}
+			},
+			new()
+			{
+				Name = "MakeMake",
+				Subtitle = "Makemake was named after the Rapanui god of fertility.",
+				HeroImage = "makemake.png",
+				Description = "Dwarf planet Makemake – along with Pluto, Haumea, and Eris – is located in the Kuiper Belt, " +
+				"a donut-shaped region of icy bodies beyond the orbit of Neptune. Makemake is slightly smaller than Pluto, " +
+				"and is the second-brightest object in the Kuiper Belt as seen from Earth while Pluto is the brightest. " +
+				"It takes about 305 Earth years for this dwarf planet to make one trip around the Sun.",
+				AccentColorStart = Color.FromArgb("#7c4b34"),
+				AccentColorEnd = Color.FromArgb("#9a7567"),
+				Images = new()
+				{
+					"https://cdn.eso.org/images/screen/eso1246a.jpg",
+					"https://www.universetoday.com/wp-content/uploads/2008/07/Makemake.jpg",
+					"https://cdn.mos.cms.futurecdn.net/8QBGiy9BhmttKdGeAAZpn8.jpg"
+				}
+			},
+			new()
+			{
+				Name = "Eris",
+				Subtitle = "Largest dwarf planet",
+				HeroImage = "eris.png",
+				Description = "The discovery of Eris help trigger a debate in the scientific community that led to the " +
+				"International Astronomical Union's decision in 2006 to clarify the definition of a planet. Pluto, Eris, " +
+				"and other similar objects are now classified as dwarf planets.",
+				AccentColorStart = Color.FromArgb("#9d4a40"),
+				AccentColorEnd = Color.FromArgb("#996237"),
+				Images = new()
+				{
+					"https://cff2.earth.com/uploads/2024/02/20135637/Eris_icy-dwarf-planet_kuiper-belt_1m.jpg",
+					"https://static.wikia.nocookie.net/terragenesis/images/8/88/Habitable_Eris.jpg/revision/latest?cb=20210202092847",
+					"https://www.bobthealien.co.uk/bobpics/eris_ai.jpg"
 				}
 			}
 		};
