@@ -95,13 +95,70 @@
             Opacity="0"
             Source="neptune.png"
             VerticalOptions="Start"
-            HorizontalOptions="Start"
+            HorizontalOptions="End"
             TranslationX="100"
             TranslationY="-72"
             WidthRequest="200"
             HeightRequest="200"/>
 
-        <!--Intro Box-->
+        <!-- Dwarf Planets Image -->
+        <Image 
+            x:Name="imgPluto"
+            Opacity="0"
+            Source="pluto.png"
+            VerticalOptions="Start"
+            HorizontalOptions="End"
+            TranslationX="140"
+            TranslationY="200"
+            WidthRequest="50"
+            HeightRequest="50"/>
+
+        <Image 
+            x:Name="imgCeres"
+            Opacity="0"
+            Source="ceres.png"
+            VerticalOptions="End"
+            HorizontalOptions="Start"
+            TranslationX="-80"
+            TranslationY="-180"
+            WidthRequest="60"
+            HeightRequest="60"/>
+
+        <Image 
+            x:Name="imgHaumea"
+            Opacity="0"
+            Source="haumea.png"
+            VerticalOptions="Center"
+            HorizontalOptions="End"
+            TranslationX="160"
+            TranslationY="-50"
+            WidthRequest="55"
+            HeightRequest="55"/>
+
+        <Image 
+            x:Name="imgMakemake"
+            Opacity="0"
+            Source="makemake.png"
+            VerticalOptions="Center"
+            HorizontalOptions="Start"
+            TranslationX="-150"
+            TranslationY="130"
+            WidthRequest="55"
+            HeightRequest="55"/>
+
+        <Image 
+            x:Name="imgEris"
+            Opacity="0"
+            Source="eris.png"
+            VerticalOptions="Start"
+            HorizontalOptions="End"
+            TranslationX="120"
+            TranslationY="100"
+            WidthRequest="60"
+            HeightRequest="60"/>
+    
+
+    <!--Intro Box-->
         <Border
             x:Name="imgIntro"
             Opacity="0"
